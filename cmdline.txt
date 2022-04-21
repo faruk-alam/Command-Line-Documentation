@@ -1,0 +1,46 @@
+Command Line- Command prompt-CMD
+
+How to open command prompt ?
+Search Option ---> Search "cmd" --->
+command prompt app will appear - than ---> Enter
+      or
+press-windows key ---> cmd ---> Enter
+ 
+How to open existing folder?
+dir ---> Enter
+
+Move one directory to another directory?
+cd "folder name" ---> Enter
+
+Back to previous directory?
+cd .. ---> Enter
+
+Creating a folder/directory?
+mkdir "directory name"---> Enter
+
+Removing a folder/directory?
+rmdir "Directory name"---> Enter
+
+Creating a file with extension?
+selected folder > echo > "file name with extension"---> Enter
+
+How to delete a file?
+selected folder >  del > "file name with extension" ---> Enter
+
+How to write something inside file?
+Selected folder > echo "text...." > selected file ---> Enter
+
+How to open a coding file with IDE?
+Selected folder > start code "coding file"
+
+How to delete a folder ?
+rmdir /s "Folder name"---> Enter y ---> Enter
+
+
+
+
+
+
+
+
+
